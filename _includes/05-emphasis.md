@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Community Voluteer* & 
+_Open Source Contrinutor_
+
+**Software Developer** & 
+__Blockchain Enthusiast__
+
+_After all I am a **Computer Science Student** and this is my personal GitHub profile. Thank you for coming to meet me. It's nice to meet you too._
