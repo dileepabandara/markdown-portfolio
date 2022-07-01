@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. GitHub
+2. Flutter
+3. IDEs
+   1. VS Code
+   2. Android Studio
